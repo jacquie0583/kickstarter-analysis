@@ -1,5 +1,5 @@
 # Kickstarting with Excel
-
+#  Overview of Project
 ## Introduction
 
 Like to take a moment to thank you for honoring our company with your business.  Taking on a fundraising event is always stressful.  The allotment for this is $100,000 can be overwhelming.  Our company has a captivating plan to bring success to your endeavors.  We have viewed other successful campaigns, assessed the keys to their progress, combined with your brilliant ideas to bring you a statistically supported plan.
@@ -10,7 +10,7 @@ The report is designed to differentiate between your campaign and others with re
 First, we turned our focus on the money raised by various campaigns. Because Louise estimates that her play will cost $12,000, we researched projects with a similar monetary goal.   Upon organizing the data, many of the campaigns missed their goal amount by a small margin. In finding the percentage of a campaign's funding we quickly determine how close a campaign came to reaching, exceeding their funding goal at times.
 Kickstarter is allowing project creators to add incentives for different pledge amounts, so we determined how much money people pledged to campaigns historically.  In discovery, we found on the average pledge $4.02 per person.
 
-##  Analysis and Challenges
+#  Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
 Upon review of the data, May is a thriving time of year for a theater campaign.  Between January and May, the success doubles but quickly tapers down from May on with a minor elevation in October.  Interestingly enough the failed campaigns closely mirror the successful campaigns, of course, statistically at a much lower percentage.
@@ -28,10 +28,11 @@ Finally, major contributing factor behind the successful campaigns is the moneta
 ### Recommendations
 The data supports your idea for a theater campaign, but it does have a drop off curve of success so possibly combining theater and music campaign might provide consist of flow of money.  June looks like an opportunistic time to have Foresight at the theater.  Finally, a meeting might be to discuss the importance of setting realistic goals.
 ### Challenges and Difficulties Encountered
-A challenge was trying not to look at the other options available, like a different play or a different subcategory.  Would have been nice to offer the client other ways of carrying out the campaign.
-Technically, the hardest part was creating the Outcome based on Goal’s sheet.  The complexity of the formulas was increasing.
+A challenge was trying not to look at the other options available, like a different play or a different subcategory.  Would have been nice to offer the client other ways of carrying out the campaign.  Included in the report, a suggestion of incorporating a component of music into the campaign was introduced.
 
-## Results
+Technically, the hardest part was creating the Outcome based on Goal’s sheet.  The complexity of the formulas was increasing.  I made many alterations and corrected formulas thus perservering through the project.
+
+# Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 Outcomes reached a peak in the Month of May and then decreased from there with a slight rise in October.  Suggestion would be to run the campaign in May.
